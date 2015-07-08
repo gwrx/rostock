@@ -1,6 +1,6 @@
 include <configuration.scad>
 use <bracket.scad>
-
+motor_end_height = 70;
 h = motor_end_height; // Total height.
 m = 29; // Motor mounting screws distance (center to center)
 
